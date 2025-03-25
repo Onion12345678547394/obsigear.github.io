@@ -7,10 +7,10 @@ STEP 1: Copy the .onion link and open Tor.
   http://x6lkbltclulhboeoloybneduauybpq35aervuygbraihxt5toxnb37ad.onion/
 
 STEP 2: Paste the link in the Tor app/browser and visit the site.
-.
-.
-.
-.
+
+
+
+
 Frequently Asked Questions (FAQ)
 Are the products all original products?
 Yes, we only buy from trusted retailers. The consoles (except Nintendo DS series), PCs, notebooks, graphics cards and cell phones are all in their original packaging.
